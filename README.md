@@ -77,7 +77,7 @@ I love to work with new technologies and playing with Data and AI.🤖
       <br>Ubuntu
     </td>
     <td align="center">
-      <img alt="DigitalOcean" height=64px src="https://cdn.worldvectorlogo.com/logos/digitalocean-2.svg">
+      <img alt="DigitalOcean" height=64px src="https://cdn.worldvectorlogo.com/logos/digitalocean-logo.svg">
       <br>Nginx
     </td>
   </tr>
