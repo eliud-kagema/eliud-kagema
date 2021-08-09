@@ -83,7 +83,3 @@ I love to work with new technologies and playing with Data and AI.🤖
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eliud-kagema&layout=compact)
 <img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliud-kagema" alt="eliudkagema" />
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eliud-kagema)  
-## My Repos
-
-[![sajib-notes](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=sajib-notes&show_owner=true)](https://github.com/sajib1066/sajib-notes)
-[![job-finder-backend](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=job-finder-backend&show_owner=true)](https://github.com/sajib1066/job-finder-backend)
