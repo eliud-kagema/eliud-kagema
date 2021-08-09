@@ -76,6 +76,10 @@ I love to work with new technologies and playing with Data and AI.🤖
       <img alt="ubuntu" height=64px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png">
       <br>Ubuntu
     </td>
+    <td align="center">
+      <img alt="DigitalOcean" height=64px src="https://cdn.worldvectorlogo.com/logos/digitalocean-2.svg">
+      <br>Nginx
+    </td>
   </tr>
 </table>
 
