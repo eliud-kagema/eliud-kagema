@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:eliud.k.maina@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/eliud-kagema-maina/)
-[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/sajib1066)
+[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/kagema)
 :wave: Hi there, My name is Eliud Kagema.😀 I'm a seasoned Software Engineer.
 I've profound knowledge in Django Framework, Machine Learning, AI Software Development. 
 I have a Bachelors of Science Degree in Computer Science from Kenyatta University. 
