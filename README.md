@@ -21,18 +21,6 @@ I love to work with new technologies and playing with Data and AI.🤖
       <br>Django
     </td>
     <td align="center">
-      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      <br>Javascript
-    </td>
-    <td align="center">
-      <img alt="vue" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-      <br>Vue
-    </td>
-    <td align="center">
-      <img alt="react" height=64px src="https://user-images.githubusercontent.com/39632170/109031546-077fa800-76ef-11eb-90ee-f49c93b996b7.png">
-      <br>Java
-    </td>
-    <td align="center">
       <img alt="tailwind" height=64px src="https://opencv.org/wp-content/uploads/2021/01/OpenCV-logo.png">
       <br>OpenCV
     </td>
@@ -67,10 +55,6 @@ I love to work with new technologies and playing with Data and AI.🤖
       <br>AWS
     </td>
     <td align="center">
-      <img alt="firebase" height=64px src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
-      <br>Firebase
-    </td>
-    <td align="center">
       <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
       <br>PostgreSQL
     </td>
@@ -89,28 +73,8 @@ I love to work with new technologies and playing with Data and AI.🤖
       <br>Nginx
     </td>
     <td align="center">
-      <img alt="centos" height=64px src="https://cdn.worldvectorlogo.com/logos/centos-1.svg">
-      <br>CentOS
-    </td>
-    <td align="center">
       <img alt="ubuntu" height=64px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png">
       <br>Ubuntu
-    </td>
-    <td align="center">
-      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-      <br>PyCharm
-    </td>
-    <td align="center">
-      <img alt="webstorm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
-      <br>WebStorm
-    </td>
-    <td align="center">
-      <img alt="dart" height=64px src="https://cdn.worldvectorlogo.com/logos/dart.svg">
-      <br>Dart
-    </td>
-    <td align="center">
-      <img alt="flutter" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-      <br>Flutter
     </td>
   </tr>
 </table>
