@@ -5,7 +5,7 @@ I have a Bachelors of Science Degree in Computer Science from Kenyatta Universit
 I'm interested in doing research on text and image related problems. 
 I love to work with new technologies and playing with Data and AI.🤖
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -237,4 +237,4 @@ I love to work with new technologies and playing with Data and AI.🤖
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/eliud-kagema/github-readme-activity-graph"><img alt="Kagema's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
